@@ -4,7 +4,7 @@ I’m a software developer amd product manager (25+ years, USAID and Department 
 
 ---
 
-#### Current & Recent Projects
+### Current & Recent Projects
 
 **Federal Election Commission (FEC) Data Pipeline**  
 Transfored raw FEC bulk files inot star schema database and flat tables in Snowflake. [github repo](https://github.com/smckissock/fec)
@@ -20,6 +20,8 @@ Data pipeline and interactive visualization for [2025 Cooperative Election Study
 
 **Older Projects**  
 Collection of public data appications I've built [over the years](https://smckissock.github.io/work-samples/)
+
+
 ---
 
 If you have projects involving **data product engineering**, contact me on [LinkedIn](https://www.linkedin.com/in/scott-mckissock/)
