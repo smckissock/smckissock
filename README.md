@@ -1,6 +1,6 @@
 # Scott McKissock  
 Data Pipelines • Media Curation • Interactive Visualizations  
-McLean, VA · [LinkedIn](https://www.linkedin.com) · [Full archive of work outsite of USAID](https://smckissock.github.io/work-samples/)
+McLean, VA • [LinkedIn](https://www.linkedin.com) • Signal (by request)
 
 ---
 
@@ -25,7 +25,7 @@ Polling data from the 2025 Cooperative Election Study, allowing readers to compa
 <br>
 <br>
 
-### Media Monitoring for OpenSecrets & USAID
+### Media Monitoring for USAID and OpenSecrets
 Tracks media coverage of OpenSecrets and USAID since the shutdown, including both U.S. and worldwide coverage. Automated pipeline with Dagster + PostgreSQL + DuckDB updates the sites daily.
 
 | | | |
@@ -67,6 +67,16 @@ Curation and search for coverage of corruption during the first Trump administra
 
 [Live Site](https://trumpconflicts.sunlightfoundation.com/) 
 
+
+### Archive of Work Outsite of USAID
+Collection of solo projects, including lobbyists in the Trump administration, worldwide USAID funding, and competitive Fortnite leaderboards. Most projects are still active.  
+
+<a href="https://smckissock.github.io/work-samples/">
+  <img src="https://smckissock.github.io/work-samples/img/work-samples.png" width="450px" alt="Work Samples Screenshot" />
+</a>
+
+[Live Site](https://smckissock.github.io/work-samples/) 
+
 ---
 
 ## Skills & Tools  
@@ -79,7 +89,7 @@ Curation and search for coverage of corruption during the first Trump administra
 ---
 
 ## Contact
-Have a data project in mind? Email me at scottmckissock@gmail.com or find me on [LinkedIn](https://www.linkedin.com)
+Have a data project in mind? Email me at scottmckissock@gmail.com or find me on [LinkedIn](https://www.linkedin.com) or Signal (by request)
 
 
 
