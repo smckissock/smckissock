@@ -47,7 +47,6 @@ Pipeline to transform bulk files from the FEC into a star-schema Snowflake data 
 <br>
 <br>
 
-
 ### Democracy Docket Case Tracking
 Interactive dashboard that tracks key judicial cases covered by Democracy Docket.
 
@@ -56,6 +55,17 @@ Interactive dashboard that tracks key judicial cases covered by Democracy Docket
 </a>
 
 [Live Site](https://smckissock.github.io/democracy-docket-cases/app/index.html) • [GitHub Repo](https://github.com/smckissock/democracy-docket-cases)
+<br>
+<br>
+
+### Sunlight Foundation: Tracking Trump's Conflicts of Interest 
+Curation and search for coverage of corruption during the first Trump administration. Developed as a contractor for the Sunlight Foundation. 
+
+<a href="https://trumpconflicts.sunlightfoundation.com">
+  <img src="https://smckissock.github.io/work-samples/img/trump-conflicts.gif" width="450px" alt="Trump Conflicts Screenshot" />
+</a>
+
+[Live Site](https://trumpconflicts.sunlightfoundation.com/) 
 
 ---
 
