@@ -1,5 +1,5 @@
 # Scott McKissock  
-Data Pipelines • Media Curation • Interactive Visualizations  
+Data Pipelines • Interactive Visualizations • Full Stack Development • Media Curation 
 McLean, VA • [LinkedIn](https://www.linkedin.com) • Signal (by request)
 
 ---
@@ -15,7 +15,7 @@ I build visualizations and that help journalists, analysts and the public make s
 ## Recent Work
 
 ### Public Opinion Polling Analysis (2025 CES)
-Polling data from the 2025 Cooperative Election Study, allowing readers to compare demographic crosstabs to national averages across key issues.
+Polling data from the 2025 Cooperative Election Study, allowing readers to compare demographic crosstabs to national averages across key issues. Build custom front end in javascript using d3.js
 
 <a href="https://smckissock.github.io/poll-app/">
   <img src="https://smckissock.github.io/work-samples/img/polls.jpg" width="450px" alt="Polling Crosstabs Screenshot" />
