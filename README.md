@@ -1,18 +1,19 @@
 # Scott McKissock  
-Data Pipelines • Interactive Visualizations • Full Stack Development • Media Curation 
+Data Engineer & Visualization Developer 
 
 McLean, VA • [LinkedIn](https://www.linkedin.com) • Signal (by request)
 
 ---
-
 ## What I Do  
-I build visualizations and that help journalists, analysts and the public make sense of political and economic data.
+I build data pipelines and interactive visualizations that help journalists, analysts, and the public make sense of political and economic data.
 
-* **Gather & simplify** messy & complex public data (e.g., campaign finance, polling, media coverage, foreign assistance, public websites)  
-* **Visualize & publish** interactive dashboards, maps, and data graphics to create memorable takeaways   
-* **Collaborate & iterate** with journalists, academics, and the public. Improve products and keep them up to date over time
+My work focuses on taking messy public datasets—campaign finance records, polling data, media coverage, foreign assistance spending—and transforming them into clear, interactive tools that reveal patterns and tell stories.
+
+I specialize in:
+* **Data engineering** – Building reliable pipelines that extract, transform, and load data from APIs, databases, and public sources
+* **Interactive visualization** – Creating dashboards and data graphics that make complex information accessible and engaging
+* **Full-stack development** – Deploying end-to-end solutions from database to user interface
 ---
-
 ## Recent Work
 
 ### Public Opinion Polling Analysis (2025 CES)
